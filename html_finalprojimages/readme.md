@@ -1,1 +1,1 @@
-A directory has all the images for the final project.
+This directory has all the images for the final project.
